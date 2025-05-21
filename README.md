@@ -37,6 +37,8 @@ This tool allows you to automatically send messages to multiple Instagram users,
 ```python
 username = "your_instagram_username"
 password = "your_instagram_password"
+```
+
 
 ## ▶️ 3. Run the App
 Make sure all required Python packages are installed.
