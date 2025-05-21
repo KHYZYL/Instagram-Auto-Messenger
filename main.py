@@ -16,8 +16,8 @@ try:
     cl.get_timeline_feed()  # Check if session is still valid
 except:
     # Login again if needed
-    username = "momscraftteam"
-    password = "Home@0110"
+    username = "your_username"  # Replace with your Instagram username
+    password = "your_password"  # Replace with your Instagram password
     cl.login(username, password)
     cl.dump_settings(SESSION_FILE)  # Save session after login
 
