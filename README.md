@@ -38,7 +38,7 @@ This tool allows you to automatically send messages to multiple Instagram users,
 username = "your_instagram_username"
 password = "your_instagram_password"
 
-##▶️ 3. Run the App
+## ▶️ 3. Run the App
 Make sure all required Python packages are installed.
 
 Run the script by executing the following command in your terminal or IDE:
@@ -49,7 +49,7 @@ Edit
 python main.py
 The script will log in to your Instagram account and start sending the messages listed in your Excel file.
 
-##📌 Notes
+## 📌 Notes
 Avoid spamming users, as Instagram may temporarily block your messaging.
 
 Keep your login credentials safe.
@@ -57,5 +57,5 @@ Do not share your script with your username/password filled in.
 
 Use at your own risk. This script is not affiliated with Instagram.
 
-##📧 Contact
+## 📧 Contact
 For help or feedback, feel free to reach out!
